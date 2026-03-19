@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OrgoHealth Terms of Service</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #222;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1 { font-size: 2rem; margin-bottom: 0.5em; }
+    h2 { margin-top: 2em; font-size: 1.4rem; }
+    p { margin: 0.75em 0; }
+    ul { margin-left: 20px; }
+    li { margin-bottom: 0.5em; }
+    .intro {
+      background: #f7f7f7;
+      padding: 16px;
+      border-left: 4px solid #4CAF50;
+      margin-bottom: 24px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Terms of Service</h1>
+
+<div class="intro">
+  <p><strong>In short:</strong> OrgoHealth is a wellness and educational app. You can use most features without creating an account. Any recommendations provided are for general informational purposes only and are not medical advice.</p>
+</div>
+
+<p><strong>Effective Date:</strong> March 2026</p>
+
+<p>Welcome to OrgoHealth. By accessing or using the OrgoHealth mobile application (“App”), you agree to these Terms of Service. Please read them carefully.</p>
+
+<h2>1. Use of the App</h2>
+<p>OrgoHealth is designed to provide general wellness and educational content related to holistic remedies, lifestyle practices, and wellbeing.</p>
+
+<ul>
+  <li>You may use the App without creating an account to browse content and explore features.</li>
+  <li>An account is only required for personalized features such as saving preferences or accessing user-specific functionality.</li>
+</ul>
+
+<p>The App is not a medical tool and does not provide medical advice, diagnosis, or treatment.</p>
+
+<h2>2. Eligibility</h2>
+<p>You must be at least 18 years old to use the App. By using the App, you confirm that you meet this requirement.</p>
+
+<h2>3. User Responsibilities</h2>
+<p>You agree to:</p>
+<ul>
+  <li>Provide accurate information when creating an account</li>
+  <li>Use the App only for lawful purposes</li>
+  <li>Not misuse, copy, modify, reverse-engineer, or attempt to exploit the App</li>
+</ul>
+
+<h2>4. AI and Wellness Content Disclaimer</h2>
+<p>OrgoHealth may provide wellness suggestions using AI-based systems and user inputs.</p>
+
+<ul>
+  <li>All recommendations are for informational and educational purposes only</li>
+  <li>They are not medical advice and should not be relied upon as such</li>
+  <li>Results may vary and are not guaranteed</li>
+</ul>
+
+<p>You should always consult a qualified healthcare professional before making any decisions related to your health.</p>
+
+<h2>5. Wellness Consultants and Third-Party Services</h2>
+<p>The App may allow you to explore or connect with wellness consultants and lifestyle service providers.</p>
+
+<ul>
+  <li>These services are provided by third parties</li>
+  <li>OrgoHealth does not guarantee the accuracy, quality, or outcomes of any consultation or service</li>
+  <li>Any interaction with third parties is at your own discretion and risk</li>
+</ul>
+
+<h2>6. Intellectual Property</h2>
+<p>All content, including text, graphics, branding, and software, is the property of OrgoHealth or its licensors and is protected by applicable laws.</p>
+
+<p>You may not reproduce, distribute, or reuse any content without prior written permission.</p>
+
+<h2>7. Limitation of Liability</h2>
+<p>To the maximum extent permitted by law, OrgoHealth and its team are not liable for:</p>
+
+<ul>
+  <li>Any direct or indirect loss, injury, or damage resulting from use of the App</li>
+  <li>Reliance on any content, recommendations, or AI-generated insights</li>
+  <li>Any interactions with third-party services or consultants</li>
+</ul>
+
+<p>Your use of the App is at your own risk.</p>
+
+<h2>8. Termination</h2>
+<p>We reserve the right to suspend or terminate access to the App if you violate these Terms or misuse the service.</p>
+
+<h2>9. Governing Law</h2>
+<p>These Terms are governed by the laws of the State of Delaware, United States, without regard to conflict of law principles.</p>
+
+<h2>10. Changes to These Terms</h2>
+<p>We may update these Terms from time to time. Continued use of the App after updates indicates acceptance of the revised Terms.</p>
+
+<h2>11. Contact</h2>
+<p>If you have any questions regarding these Terms, please contact us at:</p>
+<p><strong>Email:</strong> orgohealth@ondoro.io</p>
+
+<footer>
+  <p>Last updated: March 2026</p>
+</footer>
+
+</body>
+</html>
